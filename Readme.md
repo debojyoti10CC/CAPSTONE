@@ -21,6 +21,7 @@
 - No MongoDB or backend servers required
 
 ---
+![Smart Expense Tracker](hehe.png)
 
 ## 📽️ Demo Preview
 
@@ -41,6 +42,7 @@
 ---
 
 ## 🏗️ Project Structure
+![Smart Expense Tracker](hue.jpg)
 
 
 
