@@ -42,7 +42,7 @@
 ---
 
 ## 🏗️ Project Structure
-![Smart Expense Tracker](hue.jpg)
+![Smart Expense Tracker](hue.png)
 
 
 
